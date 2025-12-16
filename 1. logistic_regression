@@ -1,0 +1,11 @@
+# Logistic Regression
+
+This folder contains Logistic Regression implementation using Python and scikit-learn.
+
+## Files Included
+- logisticRegression.ipynb  
+- insurance_data.csv  
+
+## Description
+The notebook demonstrates data loading, preprocessing, model training, and prediction
+for a binary classification problem using Logistic Regression.
